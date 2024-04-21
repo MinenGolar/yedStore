@@ -1,5 +1,5 @@
 import React from 'react'
-import yedsImage from '/Users/minengolar/Desktop/Projects/yedwebsite/client/src/assets/yedslogo.png';
+import yedsImage from '../assets/yedslogo.png';
 
 const Footer = () => {
 return (
