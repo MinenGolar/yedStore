@@ -1,5 +1,5 @@
 import React from 'react'
-import cheersImage from '../..//assets/cheers.jpeg';
+import cheersImage from '../../assets/cheers.jpeg';
 import Navbar from '../../Navbar/Navbar.jsx';
 import Footer from '../../Footer/Footer.jsx';
 
